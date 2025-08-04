@@ -1,1 +1,1 @@
- Adds an empty field in your WooCommerce order email recipet for manual notes.
+ Adds an empty field to all your WooCommerce email notifications for manual notes.
